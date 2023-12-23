@@ -9,22 +9,33 @@ the member convenience.**
 
 In my role as a software developer, contributed to the development of multiple features and enhancements, resulting in notable improvements to the application's user experience, higher user retention rates, and significantly reduced loading times.
 
-● Developed and structured the administrator dashboard functionality from front-end to back-end.
+• Spearheaded the development of a groundbreaking service that revolutionized assessment grading, enabling seamless 
+communication across frontend, middle tier, and database, leveraging expertise in Development and Engineering. 
 
-● Created the necessary procedures in SQL utilizing joins, foreign keys and pagination.
+• Collaborated with cross-functional teams to create and assign assessments via email, ensuring prompt results to clients, 
+while adhering to protocols for installation, maintenance, and completing comprehensive documentation. 
 
-● Built the API endpoints with .NET using C# and thoroughly tested with Postman.
+• Debugged assessment application using Dev Tools to display correct assessment results using JavaScript. 
 
-● Designed components in React to maximize aesthetics and functionality.
+• Implemented mapping and filtering using JavaScript to display the correct data received from Ajax calls. 
 
-● Utilized styling with CSS and Bootstrap.
+• Led projects in Microsoft SQL Server and .NET/C#, delivering an innovative assessment taking and grading application 
+two weeks ahead of schedule, implementing software fixes, enhancements, and components. 
 
-● Focused on best practices using proper naming convention and casing to avoid compiler issues with team member’s code.
+• Overcame technical challenges by skillfully integrating code with peers' components for assessment grading, passing 
+instance IDs as props via routes, and effectively performing debugging to maintain code quality. 
 
-● Maintained workflow using GitBash and GitHub for repo management.
+• Leveraged Microsoft SQL Server database expertise to design and implement complex data management systems, 
+participating in developing specifications for assigned projects. 
 
-● Created new branches to maintain organization throughout the project.
+• Adopted Agile methodologies, contributing to efficient Project Management and streamlined development processes, 
+ensuring efficiency, and adhering to best practices. 
 
-● Performed commits and pull requests to secure consistency and quality.
+• Enhanced the assessment results' UI, displaying comprehensive grading details, and visually presenting incorrect 
+answers with React icons for easy identification, showcasing expertise in UI Design and Development. 
 
-● Participated in daily stand-ups, code review, and code talks with team members to ensure cohesive implementation of code.
+• Served as a high-level technical resource, providing mentorship and oversight to less experienced developers, while 
+actively leading problem analysis and issue resolution efforts. 
+
+• Recommended Improvements to Processes, Technology, and Interfaces, fostering continuous growth and improving the 
+efficiency of the team.
